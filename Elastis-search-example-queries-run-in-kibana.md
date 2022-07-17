@@ -11,3 +11,5 @@ POST school/_doc/10
 "tags":["Good Faculty", "Great Sports"], "rating":"4.5"
 }
 
+
+GET school/_doc/10
