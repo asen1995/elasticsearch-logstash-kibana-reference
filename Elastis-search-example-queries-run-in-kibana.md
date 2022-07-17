@@ -13,3 +13,6 @@ POST school/_doc/10
 
 
 GET school/_doc/10
+
+
+DELETE school/_doc/10
